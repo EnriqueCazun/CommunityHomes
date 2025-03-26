@@ -1,0 +1,22 @@
+name: CommunityHomes
+version: 1.0
+main: com.CommunityHomes.CommunityHomes
+api-version: 1.20
+description: Sistema de homes comunitarios
+author: Enrique Cazun
+
+commands:
+  sethome:
+    description: Establece un home comunitario
+    usage: /sethome <nombre>
+  home:
+    description: Teletransporta a un home
+    usage: /home <nombre>
+  homes:
+    description: Lista todos los homes
+  delhome:
+    description: Elimina un home
+    usage: /delhome <nombre>
+  renamehome:
+    description: Renombra un home
+    usage: /renamehome <viejo> <nuevo>
