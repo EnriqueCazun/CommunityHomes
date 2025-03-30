@@ -15,7 +15,7 @@ Sistema de homes comunitarios** para servidores Minecraft. Permite crear y admin
 ---  
 
 ## Instalación  
-1. Descarga el archivo `CommunityHomes-1.0.jar` desde [Releases]([https://github.com/tu-usuario/CommunityHomes/releases](https://github.com/EnriqueCazun/Minecraft_CommunityHomes/releases/tag/1.0)).  
+1. Descarga el archivo `CommunityHomes-1.0.jar` desde [Releases](https://github.com/EnriqueCazun/Minecraft_CommunityHomes/releases/tag/1.0).  
 2. Colócalo en la carpeta `plugins` de tu servidor.  
 3. Reinicia el servidor.  
 
