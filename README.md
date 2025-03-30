@@ -28,8 +28,3 @@ Sistema de homes comunitarios** para servidores Minecraft. Permite crear y admin
 - `/homes` → Lista todos los homes disponibles.  
 - `/delhome <nombre>` → Elimina un home.  
 - `/renamehome <viejo> <nuevo>` → Renombra un home existente.  
-
-```yaml
-
-# Homes guardados (se autogestiona)
-homes: {}
